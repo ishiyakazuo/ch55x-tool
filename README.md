@@ -1,7 +1,7 @@
 ch55x-tool
 ------------
 
-An open sourced python command line flash tool for flashing WinChipHead CH55x series 8051 USB micro controllers, including CH551, CH552, CH553, CH554, and CH559  with bootloader version 2.30 or 2.31.
+An open sourced python command line flash tool for flashing WinChipHead CH55x series 8051 USB micro controllers, including CH551, CH552, CH553, CH554, and CH559  with bootloader version 2.30 or 2.31 (and maybe 2.40).
 
 Usage
 ------------
